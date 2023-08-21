@@ -1,0 +1,3 @@
+[submodule "Image-Search-Flutter"]
+	path = Image-Search-Flutter
+	url = https://github.com/nation81/Image-Search-Flutter.git
